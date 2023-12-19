@@ -53,7 +53,7 @@ st.subheader("About Me")
 st.write("""
 - 🧑‍💻 I am a Data Analyst with a strategic profile
 
-- 🛩️ prev: Data Analys intern in Heretat Oller del Mas and final grade project focused on Data Analytics
+- 🛩️ Previous experience: Data Analys intern in Heretat Oller del Mas and final grade project focused on Data Analytics
 
 - ❤️ Data Science, Statistics, Programming, Investing and Managing
 
