@@ -58,7 +58,7 @@ for country, index in zip(movies_df["country"].isnull(), range(len(movies_df))):
         movies_df["country"][index] = "Unknown"
 
 countries = []
-for country in df["country"]:
+for country in movies_df["country"]:
     country = str(country).split(",")
     for x in country:
         x = x.strip()
